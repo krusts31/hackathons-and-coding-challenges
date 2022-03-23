@@ -1,0 +1,16 @@
+Dockerfile
+README.md
+*.pyc
+*.pyo
+*.pyd
+test_local_server.py
+.pytest_cache
+__pycache__
+env
+.ipynb_checkpoints
+.venv
+.gitignore
+.git
+screenlit
+*.sh
+tensorflow

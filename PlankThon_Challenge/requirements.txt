@@ -1,0 +1,11 @@
+# Pre-installed libs.
+fastapi==0.65.2
+uvicorn[standard]==0.14.0
+
+# If you use other libaries such as sklearn, xgboost, pytorch, please add them below.
+### START CODE HERE (replace codes below with your codes) ###
+pytest==6.2.4
+Pillow==8.2.0
+tensorflow==2.5.0
+# ...
+### END CODE HERE ###
